@@ -7,7 +7,7 @@ Script Bytenova Auto Daily Check-In & Task By SOUIY
 
 git clone https://github.com/Souiy/ByteAutoBot-SOUIY.git
 
-cd ByteAutoBot-SOUI
+cd ByteAutoBot-SOUIY
 
 ---
 
